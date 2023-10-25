@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Document - Writing Posts
+title: Login Instructions 
 mathjax: true
 ---
 
