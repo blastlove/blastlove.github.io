@@ -2,6 +2,7 @@
 layout: article
 title: Login Instructions 
 mathjax: true
+author: author
 ---
 
 # 登录说明
