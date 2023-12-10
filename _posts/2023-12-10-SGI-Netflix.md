@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 登录说明 
+title: 
 mathjax: true
 author: author
 ---
